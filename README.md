@@ -4,4 +4,4 @@
 
 #### Descrição do problema de negócio e base de dados utilizada: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
-#### O arquivo "Deteccao de fraudes em transações.pdf" traz um resumo do processo de criação da solução, os resultados obtidos e a conclusão do projeto.
+#### O arquivo **"Deteccao de fraudes em transações.pdf"** traz um resumo do processo de criação da solução, os resultados obtidos e a conclusão do projeto.
